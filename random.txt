@@ -3,3 +3,5 @@ Hey this is a file
 Adding a second line
 
 Third getting more interesting
+
+Fourth of July
